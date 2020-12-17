@@ -1,9 +1,9 @@
 # System identification with RNN
 
 ## Requirements
-  [slycot](https://pypi.org/project/slycot/)
+  📍[Slycot](https://pypi.org/project/slycot/)
   
-  [control](https://pypi.org/project/control/)
+  📍[Control](https://pypi.org/project/control/)
   
     !pip install slycot   # optional
     !pip install control
